@@ -1,5 +1,5 @@
 # Public key generator 
-The file uses a private key to produce a public key using the principle of RSA encryption
+The file uses a private key to produce a public key using the principle of RSA encryption.
 It takes in d, p, and q like in RSA encryption and returns e
 
 # Encryptor
